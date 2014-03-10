@@ -71,7 +71,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"CanelaBold56"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"255 165 000 255"	// Original Color of TanLight
 	}	
 	"PlayerStatusHealthValueBG"
 	{
