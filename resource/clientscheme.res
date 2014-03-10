@@ -2420,6 +2420,16 @@ Scheme
 			}
 		}
 		
+		HelveticaNeueRegular18
+		{
+			"1"
+			{
+				"name"		"Helvetica Neue"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
 		HelveticaNeueRegular24
 		{
 			"1"
@@ -2487,6 +2497,16 @@ Scheme
 			{
 				"name"		"Helvetica Neue Bold"
 				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		HelveticaNeueBold18
+		{
+			"1"
+			{
+				"name"		"Helvetica Neue Bold"
+				"tall"		"18"
 				"antialias" "1"
 			}
 		}
@@ -2562,6 +2582,16 @@ Scheme
 			}
 		}
 		
+		CanaroLight18
+		{
+			"1"
+			{
+				"name"		"Canaro Light DEMO"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
 		CanaroLight24
 		{
 			"1"
@@ -2632,6 +2662,17 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		CanelaBold18
+		{
+			"1"
+			{
+				"name"		"canela-Bold"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
 		CanelaBold24
 		{
 			"1"
@@ -2682,7 +2723,7 @@ Scheme
 			}
 		}
 		
-		// Canela Font Instances (12 - 48
+		// Canela Font Instances (12 - 48)
 		Canela12
 		{
 			"1"
@@ -2699,6 +2740,16 @@ Scheme
 			{
 				"name"		"canela"
 				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		Canela18
+		{
+			"1"
+			{
+				"name"		"canela"
+				"tall"		"18"
 				"antialias" "1"
 			}
 		}
@@ -2774,6 +2825,16 @@ Scheme
 			}
 		}
 		
+		CrosshairsRegular18
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
 		CrosshairsRegular24
 		{
 			"1"
@@ -2841,6 +2902,16 @@ Scheme
 			{
 				"name"		"Garm3n Font"
 				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		Garm3nFont18
+		{
+			"1"
+			{
+				"name"		"Garm3n Font"
+				"tall"		"18"
 				"antialias" "1"
 			}
 		}
@@ -2916,6 +2987,16 @@ Scheme
 			}
 		}
 		
+		BrittanicBold18
+		{
+			"1"
+			{
+				"name"		"Brittanic Bold"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
 		BrittanicBold24
 		{
 			"1"
@@ -2983,6 +3064,16 @@ Scheme
 			{
 				"name"		"FORQUE"
 				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		Forque18
+		{
+			"1"
+			{
+				"name"		"FORQUE"
+				"tall"		"18"
 				"antialias" "1"
 			}
 		}
@@ -3058,6 +3149,16 @@ Scheme
 			}
 		}
 		
+		HudasIscariote18
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
 		HudasIscariote24
 		{
 			"1"
@@ -3129,6 +3230,16 @@ Scheme
 			}
 		}
 		
+		LoveloBlack18
+		{
+			"1"
+			{
+				"name"		"Lovelo-Black"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
 		LoveloBlack24
 		{
 			"1"
@@ -3196,6 +3307,16 @@ Scheme
 			{
 				"name"		"Mandatory"
 				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		Mandatory18
+		{
+			"1"
+			{
+				"name"		"Mandatory"
+				"tall"		"18"
 				"antialias" "1"
 			}
 		}
