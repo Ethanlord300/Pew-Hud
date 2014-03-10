@@ -2396,10 +2396,10 @@ Scheme
 		}
 		
 		//
-		//////////////////// CUSTOM FONT INSTANCES //////////////////////////////
+		//////////////////// PEW HUD FONT INSTANCES //////////////////////////////
 		//
 		
-		// Helvetica Neue Regular Font Instances (12 - 48)
+		// Helvetica Neue Regular Font Instances (12 - 56)
 		HelveticaNeueRegular12
 		{
 			"1"
@@ -2480,7 +2480,17 @@ Scheme
 			}
 		}
 		
-		// Helvetica Neue Bold Font Instances (12 - 48)
+		HelveticaNeueRegular56
+		{
+			"1"
+			{
+				"name"		"Helvetica Neue"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
+		// Helvetica Neue Bold Font Instances (12 - 56)
 		HelveticaNeueBold12
 		{
 			"1"
@@ -2561,7 +2571,17 @@ Scheme
 			}
 		}
 	
-		// Canaro Light Font Instances (12 - 48)
+		HelveticaNeueBold56
+		{
+			"1"
+			{
+				"name"		"Helvetica Neue Bold"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
+		// Canaro Light Font Instances (12 - 56)
 		CanaroLight12
 		{
 			"1"
@@ -2642,7 +2662,108 @@ Scheme
 			}
 		}
 		
-		// Canela Bold Font Instances (12 - 48)
+		CanaroLight56
+		{
+			"1"
+			{
+				"name"		"Canaro Light DEMO"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
+		// Canela Font Instances (12 - 56)
+		Canela12
+		{
+			"1"
+			{
+				"name"		"canela"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		Canela16
+		{
+			"1"
+			{
+				"name"		"canela"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		Canela18
+		{
+			"1"
+			{
+				"name"		"canela"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
+		Canela24
+		{
+			"1"
+			{
+				"name"		"canela"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		Canela32
+		{
+			"1"
+			{
+				"name"		"canela"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		Canela36
+		{
+			"1"
+			{
+				"name"		"canela"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		Canela42
+		{
+			"1"
+			{
+				"name"		"canela"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		Canela48
+		{
+			"1"
+			{
+				"name"		"canela"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		Canela56
+		{
+			"1"
+			{
+				"name"		"canela"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
+		// Canela Bold Font Instances (12 - 56)
 		CanelaBold12
 		{
 			"1"
@@ -2723,83 +2844,12 @@ Scheme
 			}
 		}
 		
-		// Canela Font Instances (12 - 48)
-		Canela12
+		CanelaBold56
 		{
 			"1"
 			{
-				"name"		"canela"
-				"tall"		"12"
-				"antialias" "1"
-			}
-		}
-		
-		Canela16
-		{
-			"1"
-			{
-				"name"		"canela"
-				"tall"		"16"
-				"antialias" "1"
-			}
-		}
-		
-		Canela18
-		{
-			"1"
-			{
-				"name"		"canela"
-				"tall"		"18"
-				"antialias" "1"
-			}
-		}
-		
-		Canela24
-		{
-			"1"
-			{
-				"name"		"canela"
-				"tall"		"24"
-				"antialias" "1"
-			}
-		}
-		
-		Canela32
-		{
-			"1"
-			{
-				"name"		"canela"
-				"tall"		"32"
-				"antialias" "1"
-			}
-		}
-		
-		Canela36
-		{
-			"1"
-			{
-				"name"		"canela"
-				"tall"		"36"
-				"antialias" "1"
-			}
-		}
-		
-		Canela42
-		{
-			"1"
-			{
-				"name"		"canela"
-				"tall"		"42"
-				"antialias" "1"
-			}
-		}
-		
-		Canela48
-		{
-			"1"
-			{
-				"name"		"canela"
-				"tall"		"48"
+				"name"		"canela-Bold"
+				"tall"		"56"
 				"antialias" "1"
 			}
 		}
@@ -2885,6 +2935,16 @@ Scheme
 			}
 		}
 		
+		CrosshairsRegular56
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
 		// Garm3n Font Instances (12 - 48)
 		Garm3nFont12
 		{
@@ -2962,6 +3022,16 @@ Scheme
 			{
 				"name"		"Garm3n Font"
 				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		Garm3nFont56
+		{
+			"1"
+			{
+				"name"		"Garm3n Font"
+				"tall"		"56"
 				"antialias" "1"
 			}
 		}
@@ -3047,6 +3117,16 @@ Scheme
 			}
 		}
 		
+		BrittanicBold56
+		{
+			"1"
+			{
+				"name"		"Brittanic Bold"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
 		// FORQUE Font Instances (12 - 48)
 		Forque12
 		{
@@ -3124,6 +3204,16 @@ Scheme
 			{
 				"name"		"FORQUE"
 				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		Forque56
+		{
+			"1"
+			{
+				"name"		"FORQUE"
+				"tall"		"56"
 				"antialias" "1"
 			}
 		}
@@ -3209,6 +3299,16 @@ Scheme
 			}
 		}
 		
+		HudasIscariote56
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
 		// Lovelo Black Font Instances (12 - 48)
 		LoveloBlack12
 		{
@@ -3290,6 +3390,16 @@ Scheme
 			}
 		}
 		
+		LoveloBlack56
+		{
+			"1"
+			{
+				"name"		"Lovelo-Black"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
 		// Mandatory Font Instances
 		Mandatory12
 		{
@@ -3367,6 +3477,16 @@ Scheme
 			{
 				"name"		"Mandatory"
 				"tall"		"48"
+				"antialias" "1"
+			}
+		}	
+		
+		Mandatory56
+		{
+			"1"
+			{
+				"name"		"Mandatory"
+				"tall"		"56"
 				"antialias" "1"
 			}
 		}	
