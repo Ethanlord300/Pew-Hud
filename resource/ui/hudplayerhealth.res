@@ -42,6 +42,44 @@
 		"enabled"		"0"
 		"image"			"../hud/health_bg"
 		"scaleImage"	"1"	
+	}
+	"TeamIndicator"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"TeamIndicator"
+		"xpos"			"65"
+		"ypos"			"100"
+		"zpos"			"5"
+		"wide"			"140"
+		"tall"	 		"2"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible" 		"1" 
+		"enabled" 		"1"
+		"image"			"../hud/color_panel_brown"
+		"scaleImage"	"1"
+		"teambg_1"		"../hud/color_panel_brown"
+		"teambg_2"		"../hud/color_panel_red"
+		"teambg_3"		"../hud/color_panel_blu"
+		
+		"src_corner_height"		"50"				// pixels inside the image
+		"src_corner_width"		"50"			
+		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"0"	
+	}
+	"HealthBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"HealthBG"
+		"xpos"			"65"
+		"ypos"			"50"
+		"zpos"			"0"
+		"wide"			"140"
+		"tall"			"50"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"0 0 0 125"
 	}	
 	"PlayerStatusHealthBonusImage"
 	{
@@ -61,58 +99,34 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"0"
-		"ypos"			"0"	[$WIN32]
+		"xpos"			"63"
+		"ypos"			"50"	
 		"zpos"			"5"
-		"wide"			"250"
-		"tall"			"150"
+		"wide"			"140"
+		"tall"			"50"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"CanelaBold56"
+		"font"			"BritannicBold56"
 		"fgcolor"		"255 165 000 255"	// Original Color of TanLight
 	}	
 	"PlayerStatusHealthValueBG"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueBG"
-		"xpos"			"-2"
-		"ypos"			"-1"
+		"xpos"			"65"
+		"ypos"			"52"
 		"zpos"			"4"
-		"wide"			"250"
-		"tall"			"150"
+		"wide"			"140"
+		"tall"			"50"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"CanelaBold56"
+		"font"			"BritannicBold56"
 		"fgcolor"		"0 0 0 255"
 	}
-	"TeamIndicator"
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"TeamIndicator"
-		"xpos"			"c-345"
-		"ypos"			"100"
-		"zpos"			"5"
-		"wide"			"85"
-		"tall"	 		"2"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible" 		"1" 
-		"enabled" 		"1"
-		"image"			"../hud/color_panel_brown"
-		"scaleImage"	"1"
-		"teambg_1"		"../hud/color_panel_brown"
-		"teambg_2"		"../hud/color_panel_red"
-		"teambg_3"		"../hud/color_panel_blu"
-		
-		"src_corner_height"		"50"				// pixels inside the image
-		"src_corner_width"		"50"			
-		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"0"	
-	}	
 	"PlayerStatusBleedImage"
 	{
 		"ControlName"	"ImagePanel"

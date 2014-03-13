@@ -3036,92 +3036,92 @@ Scheme
 			}
 		}
 		
-		// Brittanic Bold Font Instances (12 - 48)
-		BrittanicBold12
+		// Britannic Bold Font Instances (12 - 56)
+		BritannicBold12
 		{
 			"1"
 			{
-				"name"		"Brittanic Bold"
+				"name"		"Britannic Bold"
 				"tall"		"12"
 				"antialias" "1"
 			}
 		}
 		
-		BrittanicBold16
+		BritannicBold16
 		{
 			"1"
 			{
-				"name"		"Brittanic Bold"
+				"name"		"Britannic Bold"
 				"tall"		"16"
 				"antialias" "1"
 			}
 		}
 		
-		BrittanicBold18
+		BritannicBold18
 		{
 			"1"
 			{
-				"name"		"Brittanic Bold"
+				"name"		"Britannic Bold"
 				"tall"		"18"
 				"antialias" "1"
 			}
 		}
 		
-		BrittanicBold24
+		BritannicBold24
 		{
 			"1"
 			{
-				"name"		"Brittanic Bold"
+				"name"		"Britannic Bold"
 				"tall"		"24"
 				"antialias" "1"
 			}
 		}
 		
-		BrittanicBold32
+		BritannicBold32
 		{
 			"1"
 			{
-				"name"		"Brittanic Bold"
+				"name"		"Britannic Bold"
 				"tall"		"32"
 				"antialias" "1"
 			}
 		}
 		
-		BrittanicBold36
+		BritannicBold36
 		{
 			"1"
 			{
-				"name"		"Brittanic Bold"
+				"name"		"Britannic Bold"
 				"tall"		"36"
 				"antialias" "1"
 			}
 		}
 		
-		BrittanicBold42
+		BritannicBold42
 		{
 			"1"
 			{
-				"name"		"Brittanic Bold"
+				"name"		"Britannic Bold"
 				"tall"		"42"
 				"antialias" "1"
 			}
 		}
 		
-		BrittanicBold48
+		BritannicBold48
 		{
 			"1"
 			{
-				"name"		"Brittanic Bold"
+				"name"		"Britannic Bold"
 				"tall"		"48"
 				"antialias" "1"
 			}
 		}
 		
-		BrittanicBold56
+		BritannicBold56
 		{
 			"1"
 			{
-				"name"		"Brittanic Bold"
+				"name"		"Britannic Bold"
 				"tall"		"56"
 				"antialias" "1"
 			}
